@@ -1,0 +1,4 @@
+artifact_location: file:///C:/ffiorini/Git/HP_ART/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: house_prices
