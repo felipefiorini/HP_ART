@@ -1,2 +1,7 @@
 
 *.log
+notebooks/logs.log
+
+
+# Ignore the mlruns directory
+notebooks/mlruns/
