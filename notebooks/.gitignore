@@ -1,0 +1,6 @@
+# Ignore the mlruns directory
+mlruns/
+
+# Ignore Logs
+logs
+*.log
